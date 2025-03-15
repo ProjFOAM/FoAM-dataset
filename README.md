@@ -17,7 +17,7 @@ Shanghai AI Laboratory, ShanghaiTech, TeleAI -->
 </div>
 
 ## How to get all trainning data？
-If you want any data from FoAM, such as fine-tune VLM data and real experimental data, please feel free to contact [Litao Liu](mailto:litao.liu@example.com) to obtain it.
+The simulation data can be obtained by running the FoAM benchmark script. If you want any other trainning data from FoAM, such as fine-tune VLM data and real experimental data, please feel free to contact [Litao Liu](mailto:litao.liu@example.com) to obtain it.
 
 ## FAQs
 If you encounter any issues, feel free to open an issue on GitHub or reach out through discussions or directly contact [Litao Liu](mailto:litao.liu@example.com). We appreciate your feedback and contributions! 🚀
